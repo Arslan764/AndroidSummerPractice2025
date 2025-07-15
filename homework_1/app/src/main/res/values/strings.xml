@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework 1</string>
+    <string name="email_label">Email: %s</string>
+    <string name="password_label">Пароль: %s</string>
+</resources>
